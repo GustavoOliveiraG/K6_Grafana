@@ -1,0 +1,6 @@
+{
+    "urlBase": "https://test-api.k6.io",
+    "token": "",
+    "user": "Usuario01",
+    "password": "123456"
+}
